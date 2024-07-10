@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6610d291-1398-4e9a-9016-ec2017934e07": {
+      "ProjectGuid": "6610d291-1398-4e9a-9016-ec2017934e07",
+      "DisplayName": "MqttService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
